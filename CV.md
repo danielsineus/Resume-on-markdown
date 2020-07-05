@@ -6,11 +6,11 @@ output:
 Daniel SINEUS
 ==============
 
-------------------                                  ---------------------
-2508 10th Ave N                                     dsineus@hotmail.com
-Lake Worth, FL 33461                                sinedaniel14@gmail.com  
-(786)665-1507                                     https://twitter.com/DanielSineus                                                       
---------------------                                -----------------------
+------------------                                                    ---------------------
+2508 10th Ave N                                                       dsineus@hotmail.com
+Lake Worth, FL 33461                                                  sinedaniel14@gmail.com  
+(786)665-1507                                                         https://twitter.com/DanielSineus                                                       
+--------------------                                                  -----------------------
 
 Education
 ------------
